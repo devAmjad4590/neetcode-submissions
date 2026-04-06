@@ -1,3 +1,5 @@
+# I SOLVED THIS WITHOUT LOOKING INTO THE SOLUTION! PRETTY COOL ALHAMDULILLAH. (First Hint helped heh)
+
 """
 # Definition for a Node.
 class Node:
